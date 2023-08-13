@@ -1,4 +1,4 @@
-# Hello, I am Jevin Jivani 👋 
+![GithubCover](https://github.com/jevinjivani2507/jevinjivani2507/assets/74830378/389e86e3-ff50-4007-9f5c-eb0091cafd85)
 
 ### I'm a Computer Science Enthusiast!!
 
